@@ -1,0 +1,12 @@
+
+# Python virtual environment
+venv/
+.venv/
+
+# Temporary Python files
+__pycache__/
+*.pyc
+
+# Mac temporary files
+.DS_Store
+scraper_backup.py
